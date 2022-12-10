@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SIBU Library App</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+
+    <string-array name="user1">
+        <item>Deep Discord</item>
+        <item>The Death Of Vivek</item>
+        <item>Half Baked Idea</item>
+    </string-array>
+
+</resources>
